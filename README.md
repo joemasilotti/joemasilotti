@@ -10,7 +10,7 @@ Hi! 👋 I'm Joe Masilotti, an independent developer who's passionate about clea
 
 * [Masilotti.com](https://masilotti.com) - My blog on XCTest, Turbo(links), and Ruby on Rails
 * [Mugshot Bot](https://mugshotbot.com) - Automated link preview images
-* [X-Wing AI](https://xwing.app) - Singple player mode for a two-player board game
+* [X-Wing AI](https://xwing.app) - Single player mode for a two-player board game
 
 ✨ You can follow me on Twitter [@joemasilotti](https://twitter.com/joemasilotti)
 
