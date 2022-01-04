@@ -2,15 +2,15 @@ Hi! 👋 I'm Joe Masilotti, an independent developer who's passionate about clea
 
 👨‍💻 Here's what I can help you with:
 
-* [Turbo apps](https://github.com/hotwired/turbo-ios) - Port your Ruby on Rails app to a hybrid iOS app
-* Coaching - 1:1 pair programming to level up your dev skills
+* [Turbo Native apps](https://github.com/hotwired/turbo-ios) - Port your Ruby on Rails app to a hybrid iOS app
 * Testing and development - Native iOS and/or Ruby on Rails
+* Open source - @ me for PR review
 
 💻 Here's a few of the projects I'm working on:
 
-* [Masilotti.com](https://masilotti.com) - My blog on XCTest, Turbo(links), and Ruby on Rails
+* [Masilotti.com](https://masilotti.com) - My blog on Ruby on Rails, Turbo Native, and iOS
 * [railsdevs.io](https://www.railsdevs.io) - Open source Rails app to find Ruby on Rails developers who are looking for work
-* [Mugshot Bot](https://mugshotbot.com) - Automated link preview images
+* [Jumpstart Pro iOS](https://jumpstartrails.com/ios) - A template to turn your Rails app into an iOS app, powered by Turbo Native
 * [X-Wing AI](https://xwing.app) - Single player mode for a two-player board game
 
 ✨ You can follow me on Twitter [@joemasilotti](https://twitter.com/joemasilotti)
