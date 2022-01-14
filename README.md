@@ -8,9 +8,9 @@ Hi! 👋 I'm Joe Masilotti, an independent developer who's passionate about clea
 
 💻 Here's a few of the projects I'm working on:
 
-* [Masilotti.com](https://masilotti.com) - My blog on Ruby on Rails, Turbo Native, and iOS
 * [railsdevs](https://railsdevs.com) - Open source Rails app to find Ruby on Rails developers who are looking for work
 * [Jumpstart Pro iOS](https://jumpstartrails.com/ios) - A template to turn your Rails app into an iOS app, powered by Turbo Native
+* [Masilotti.com](https://masilotti.com) - My blog on Ruby on Rails, Turbo Native, and iOS
 * [X-Wing AI](https://xwing.app) - Single player mode for a two-player board game
 
 ✨ You can follow me on Twitter [@joemasilotti](https://twitter.com/joemasilotti)
