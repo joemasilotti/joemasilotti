@@ -4,6 +4,7 @@ Hi! 👋 I'm Joe Masilotti, the Turbo Native guy. I help folks launch iOS apps i
 
 * [turbo-ios](https://github.com/hotwired/turbo-ios) - I'm a maintainer of the Turbo Native library for iOS.
 * [TurboNavigator](https://github.com/joemasilotti/TurboNavigator) - A drop-in class for Turbo Native apps to handle common navigation flows.
+* [Daily Log](https://github.com/joemasilotti/daily-log) - A Rails and iOS app to track my daily habits like exercise, medication, food, and water.
 * [Jumpstart Pro iOS](https://jumpstartrails.com/ios) - A template to turn your Rails app into an iOS app, powered by Turbo Native
 * [RailsDevs](https://railsdevs.com) - Open source Rails app to find Ruby on Rails developers who are looking for work
 
