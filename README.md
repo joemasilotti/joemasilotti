@@ -1,16 +1,15 @@
-Hi! 👋 I'm Joe Masilotti, the Turbo Native guy. I help folks launch iOS apps in the App Store with Turbo Native and Ruby on Rails.
+Hi! 👋 I'm Joe Masilotti, the Hotwire Native guy. I help Rails developers build web-powered iOS and Android apps with Hotwire Native.
 
 💻 Here are a few things I'm working on:
 
-* [turbo-ios](https://github.com/hotwired/turbo-ios) - I'm a maintainer of the Turbo Native library for iOS.
-* [TurboNavigator](https://github.com/joemasilotti/TurboNavigator) - A drop-in class for Turbo Native apps to handle common navigation flows.
-* [Daily Log](https://github.com/joemasilotti/daily-log) - An open source Turbo Native app to track daily exercise, medication, food, and water.
-* [Jumpstart Pro iOS](https://jumpstartrails.com/ios) - A template to turn your Rails app into an iOS app, powered by Turbo Native
-* [RailsDevs](https://railsdevs.com) - Open source Rails app to find Ruby on Rails developers who are looking for work
+* [Hotwire Native for iOS](https://github.com/hotwired/hotwire-native-ios) - I'm a maintainer of the Hotwire Native library for iOS.
+* [Daily Log](https://github.com/joemasilotti/daily-log) - An open source Hotwire Native app to track daily exercise, medication, food, and water.
+* [Jumpstart Pro iOS](https://jumpstartrails.com/ios) - A template to turn your Rails app into an iOS app, powered by Hotwire Native.
+* [RailsDevs](https://railsdevs.com) - Open source Rails app to find Ruby on Rails developers who are looking for work.
 
 👨‍💻 Here's how I can help with your Turbo Native app:
 
-* **Zero to App Store** - I build your iOS app and launch it in the App Store.
+* **Zero to App Store** - I build your iOS and Android apps and launch them in the app stores.
 * **Private custom workshop** - A custom workshop tailored to your team's unique needs and skill level.
 * **Monthly advisory retainer** - Unlimited access to me via phone, email, and/or Zoom.
 * **1:1 advisory meeting** - A one-hour video call to pick my brain.
