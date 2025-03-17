@@ -3,9 +3,9 @@ Hi! 👋 I'm Joe Masilotti, the Hotwire Native guy. I help Rails developers buil
 💻 Here are a few things I'm working on:
 
 * [Hotwire Native for iOS](https://github.com/hotwired/hotwire-native-ios) - I'm a maintainer of the Hotwire Native library for iOS.
-* [Daily Log](https://github.com/joemasilotti/daily-log) - An open source Hotwire Native app to track daily exercise, medication, food, and water.
+* [Brige Components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps.
 * [Jumpstart Pro iOS](https://jumpstartrails.com/ios) - A template to turn your Rails app into an iOS app, powered by Hotwire Native.
-* [RailsDevs](https://railsdevs.com) - Open source Rails app to find Ruby on Rails developers who are looking for work.
+* [Daily Log](https://github.com/joemasilotti/daily-log) - An open source Hotwire Native app to track daily exercise, medication, food, and water.
 
 👨‍💻 Here's how I can help with your Turbo Native app:
 
