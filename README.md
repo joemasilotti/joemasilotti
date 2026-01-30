@@ -1,17 +1,16 @@
-Hi! 👋 I'm Joe Masilotti, the Hotwire Native guy. I help Rails developers build web-powered iOS and Android apps with Hotwire Native.
+I help Rails businesses ship iOS and Android apps. I've shipped 25+, [wrote the book](https://pragprog.com/titles/jmnative), and trained hundreds of developers.
 
-💻 Here are a few things I'm working on:
+💻 What I'm working on:
 
-* [Hotwire Native for iOS](https://github.com/hotwired/hotwire-native-ios) - I'm a maintainer of the Hotwire Native library for iOS.
-* [Bridge Components](https://github.com/joemasilotti/bridge-components) - A collection of bridge components for Hotwire Native apps.
-* [Jumpstart Pro iOS](https://jumpstartrails.com/ios) - A template to turn your Rails app into an iOS app, powered by Hotwire Native.
-* [Daily Log](https://github.com/joemasilotti/daily-log) - An open source Hotwire Native app to track daily exercise, medication, food, and water.
+* [Hotwire Native for iOS](https://github.com/hotwired/hotwire-native-ios) - Maintainer of the official library.
+* [Bridge Components](https://github.com/joemasilotti/bridge-components) - Native components for Hotwire Native apps.
+* [Jumpstart Pro iOS](https://jumpstartrails.com/ios) - Turn your Rails app into an iOS app, powered by Hotwire Native.
+* [PurchaseKit](https://purchasekit.com) - In-app purchase infrastructure for Hotwire Native apps.
 
-👨‍💻 Here's how I can help with your Turbo Native app:
+👨‍💻 How I can help:
 
-* **Zero to App Store** - I build your iOS and Android apps and launch them in the app stores.
-* **Private custom workshop** - A custom workshop tailored to your team's unique needs and skill level.
-* **Monthly advisory retainer** - Unlimited access to me via phone, email, and/or Zoom.
-* **1:1 advisory meeting** - A one-hour video call to pick my brain.
+* **Strategy Sprint** - Framework decision, architecture, and build plan.
+* **Build** - Hands-on development for your iOS and Android apps.
+* **Maintenance Retainer** - Updates, bug fixes, and monthly releases.
 
-💌 I would love to work together! [Send me an email](mailto:joe@masilotti.com) to get in touch.
+💌 [Get in touch](mailto:joe@masilotti.com) if your Rails business needs a mobile app.
